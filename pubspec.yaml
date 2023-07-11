@@ -27,8 +27,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/
-    - images/vulms.png
+    - assets/images/
 
 
   
